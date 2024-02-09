@@ -1,0 +1,29 @@
+.form {
+  height: 100vh;
+  width: 100vw;
+  background-color: #d2dfcf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.subForm {
+  width: 900px;
+  height: 600px;
+  background-color: white;
+}
+.section1 {
+  margin-top: 100px !important;
+}
+.section1 button{
+  width: 100%;
+  margin-top: 10px;
+}
+.section1 input {
+  margin-bottom: 10px;
+}
+.subForm h1 {
+  text-align: center;
+}
+.subForm h6 {
+  text-align: center;
+}

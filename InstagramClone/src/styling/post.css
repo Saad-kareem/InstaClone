@@ -1,0 +1,6 @@
+.Post{
+    height: 100vh;
+}
+.Post textarea{
+    resize: none;
+}
